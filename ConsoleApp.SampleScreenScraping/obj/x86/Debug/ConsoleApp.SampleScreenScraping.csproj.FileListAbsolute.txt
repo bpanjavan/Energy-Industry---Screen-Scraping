@@ -1,0 +1,5 @@
+C:\Git\Energy-Industry---Screen-Scraping\ConsoleApp.SampleScreenScraping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\Energy-Industry---Screen-Scraping\ConsoleApp.SampleScreenScraping\bin\Debug\ConsoleApp.SampleScreenScraping.exe
+C:\Git\Energy-Industry---Screen-Scraping\ConsoleApp.SampleScreenScraping\bin\Debug\ConsoleApp.SampleScreenScraping.pdb
+C:\Git\Energy-Industry---Screen-Scraping\ConsoleApp.SampleScreenScraping\obj\x86\Debug\ConsoleApp.SampleScreenScraping.exe
+C:\Git\Energy-Industry---Screen-Scraping\ConsoleApp.SampleScreenScraping\obj\x86\Debug\ConsoleApp.SampleScreenScraping.pdb
